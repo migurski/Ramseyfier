@@ -18,7 +18,9 @@ Results:
 
     stuff-errors.txt
     stuff-errors.shp
-
+    stuff-errors.dbf
+    stuff-errors.shx
+    
 Assumptions
 -----------
 
