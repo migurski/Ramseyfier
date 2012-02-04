@@ -19,7 +19,8 @@ Results:
     stuff-errors.txt
     stuff-errors.shp
 
-Assumptions: 
+Assumptions
+-----------
 
 This has been built and tested for blessing Natural Earth data
 (naturalearthdata.com). As such, windows-1252 codepage and a few other parameters 
